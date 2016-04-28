@@ -7,3 +7,4 @@
 //
 
 #include "gittest.h"
+#include "ViewController.h"
